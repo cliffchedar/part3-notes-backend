@@ -13,7 +13,7 @@
     "logs:prod": "heroku logs --tail"
   },
   "author": "",
-  "linsece": "ISC",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
   },
